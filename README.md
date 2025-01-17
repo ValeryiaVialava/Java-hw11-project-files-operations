@@ -25,7 +25,7 @@ losowego dostępu do pliku zamienić wszystkie parzyste pozycje od 0 do 200 w pl
 na spacje.
 – Wypisać rekurencyjne zawartość katalogu Dir0 wraz z rozmiarami plików.
 
-br
+<br>
 
 ```
 Struktura katalogów i plików została pomyślnie utworzona.
